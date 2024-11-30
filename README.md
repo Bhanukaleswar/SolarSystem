@@ -1,4 +1,4 @@
-# Built with ♥️ on SPACE with React
+# Built with ♥️ on SPACE with React - ABARTH
 
 # 🚀🌌 **Solar System - Explore the Planets** 🌌🚀
 
@@ -61,7 +61,3 @@ Special thanks to:
 
 - **React**, **Framer Motion**, and **Styled Components** for providing the powerful tools that made building this app possible.  
 - The **fun facts** about the planets were sourced from various **astronomy resources**.
-
----
-
-Feel free to customize and paste this into your project’s `README.md` file. The symbols and formatting add a unique touch to give it a cool, space-themed feel! 🌌🚀
