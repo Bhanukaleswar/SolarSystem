@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+Solar System - Explore the Planets
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Solar System - Explore the Planets app! 🚀🌌
+This web app allows you to explore the fascinating planets in our solar system with fun facts, orbital velocity calculations, and more! Each planet has its own unique features, from its orbital characteristics to fun trivia. Additionally, enjoy interactive animations and cool effects as you learn about each planet.
 
-## Available Scripts
+Features:
+Planet Exploration: Click on each planet's name to learn about its orbital velocity, eccentricity, and other fun facts.
+Travel Time Calculation: Calculate how long it would take to travel between two cities at the orbital speed of each planet.
+Planet Fun Facts: Get a random fun fact every time you click on a planet.
+Interactive Background: The background changes dynamically based on the selected planet.
+Cool Animations: Enjoy transition effects and animations like fiery heading text and starry footer text for an immersive experience.
 
-In the project directory, you can run:
+Technologies Used:
+React: The app is built using React, a JavaScript library for building user interfaces.
+Styled Components: For styling the app in a modular and reusable way.
+Framer Motion: To add smooth animations and transitions to the UI.
+React-Spring: For additional spring-based animations.
+CSS Animations: To create fire and starry effects for a dynamic user experience.
 
-### `npm start`
+How to Use:
+Explore Planets: Click on any planet in the list to learn more about it.
+Fun Facts: Each time you click on a planet, a random fun fact will appear about that planet.
+Travel Time: You can see how long it would take to travel from one city to another at the speed of the selected planet
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Contributing:
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
+Make sure to follow the contribution guidelines and ensure that your changes align with the existing code style.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Acknowledgments:
+Special thanks to React, Framer Motion, and Styled Components for making building this app possible.
+Fun facts sourced from various astronomy resources.
